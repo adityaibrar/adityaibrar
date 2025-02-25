@@ -20,7 +20,7 @@
 <br>
 
 <p align="left">
-<img width="900px"  src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,postman,figma,mysql,python,pytorch,vscode,git,bitbucket&perline=20"  />
+<img width="900px"  src="https://skillicons.dev/icons?i=dart,javascript,typescript,python,express,flutter,androidstudio,firebase,postman,figma,mysql,pytorch,vscode,git,bitbucket&perline=20"  />
 </p>
 <a href="https://github.com/adityaibrar/github-readme-stats">
   <picture>
