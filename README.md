@@ -22,34 +22,10 @@
 <p align="left">
 <img width="900px"  src="https://skillicons.dev/icons?i=dart,javascript,typescript,python,express,flutter,androidstudio,firebase,postman,figma,mysql,pytorch,vscode,git,bitbucket&perline=20"  />
 </p>
-<a href="https://github.com/adityaibrar/github-readme-stats">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adityaibrar&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: dark&card_width=400)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adityaibrar&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light&card_width=400), (prefers-color-scheme: no-preference)"
-  />
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=adityaibrar&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" />
-</picture>
-</a>
-<a href="https://github.com/adityaibrar/convoychat">
-   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&show_icons=true&theme=dark&card_width=520"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&show_icons=true&card_width=520"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&layout=compact&langs_count=8" />
-</picture>
-   </a>
-<!--    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adityaibrar&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> -->
-
+<p align="center">
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=8" />   
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
 <br><div>All the works here are the result of my study, so my stats are not entirely visible. Check out the trail of my contributions below as this snake devours them! If you want to see the results of my project please check [here](https://adityaibrar.vercel.app/)!</div>
 
 <picture>
