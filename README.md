@@ -26,7 +26,10 @@
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=8" />   
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
-<br><div>All the works here are the result of my study, so my stats are not entirely visible. Check out the trail of my contributions below as this snake devours them! If you want to see the results of my project please check [here](https://adityaibrar.vercel.app/)!</div>
+<br>
+<div>All the works here are the result of my study, so my stats are not entirely visible. Check out the trail of my contributions below as this snake devours them! If you want to see the results of my project please check 
+<a href="https://adityaibrar.my.id" target="_blank"> here</a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
