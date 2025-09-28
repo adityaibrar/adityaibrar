@@ -23,7 +23,7 @@
 <img width="900px"  src="https://skillicons.dev/icons?i=dart,javascript,typescript,python,express,flutter,golang,androidstudio,firebase,postman,figma,mysql,pytorch,vscode,git,bitbucket&perline=20"  />
 </p>
 <p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=8&hide=php,blade,Jupyter%20Notebook" />   
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaibrar&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=8&hide=php,blade,Jupyter%20Notebook,css,scss" />   
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 <br>
