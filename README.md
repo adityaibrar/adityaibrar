@@ -7,6 +7,10 @@
 - 💻 **Professional Software Engineer** with a strong focus on Mobile Development (Flutter & Native).
 - 🚀 Passionate about building scalable applications, implementing Clean Architecture, and exploring AI-driven solutions.
 - 🛠️ Experienced in managing fullstack lifecycles from backend (Golang/PHP) to high-end UI/UX implementation.
+<div>
+Explore my professional journey and featured projects, on my portfolio 
+<a href="https://adityaibrar.my.id" target="_blank"><b>here</b></a>
+</div>
 <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adityaibrar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="profile count" style="padding-right:20px;" />
@@ -24,16 +28,12 @@
   <img alt="Github Stats" src="https://github-readme-stats.shion.dev/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 <br>
-<div>
-Explore my professional journey and featured projects, on my portfolio: 
-<a href="https://adityaibrar.my.id" target="_blank"><b>here</b></a>
-</div>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 <h2 align="left">✉️ Let's Connect</h2>
 <div align="left">
