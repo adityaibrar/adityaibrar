@@ -15,40 +15,11 @@
   <a href="https://adityaibrar.my.id"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adityaibrar.my.id-38BDF8?style=for-the-badge&logo=link&logoColor=white"></a>
 </p>
 
-## About Me
-
-I am an Information Technology student and a Mobile App Developer specializing in Flutter and cross-platform development.
-
-I love building intuitive, clean solutions within the Flutter ecosystem, ensuring every application runs smoothly and meets high-quality standards.
-
-## Current Focus
-
-| Area | What I am exploring |
-| --- | --- |
-| **Mobile Development** | Building cross-platform apps using Flutter and Dart. |
-| **System Architecture** | Implementing MVVM and Provider for organized application flow. |
-| **Backend Integration** | Connecting apps with REST APIs using Laravel and Go. |
-
 ## Featured Work
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
 | [**Mulungs Super App**](https://play.google.com/store/apps/details?id=com.indoditi.mulungs_user) | Waste Management Ecosystem | An innovative mobile app bridging environmental awareness with digital financial inclusion by enabling users to convert waste into digital credit. [Live](https://mulungs.com/) |
-
-## Research Direction
-
-I am focused on creating efficient, user-friendly mobile solutions that solve real-world problems through precise engineering and modern state management.
-
-## Tech Stack
-
-`Flutter` · `Dart` · `Go` · `Laravel` · `REST API`
-
-## Recent Activity
-
-<!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
-<!-- AUTO:ACTIVITY:END -->
-
 
 <!-- CUSTOM:START -->
 <!-- You can add custom markdown here. It will be preserved during generation. -->
@@ -62,9 +33,9 @@ _Recent public activity will appear here after the workflow runs._
   <img alt="Top Language" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaibrar&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=8&hide=blade,php,Jupyter%20Notebook,css,scss" />    
   <img alt="Github Stats" src="https://github-readme-stats.shion.dev/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
-<br>
+<!-- <br> -->
 
-<h2 align="left">✉️ Let's Connect</h2>
+<!-- <h2 align="left">✉️ Let's Connect</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/aditya-ibrar-abdillah/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 5px;" />
@@ -77,13 +48,13 @@ _Recent public activity will appear here after the workflow runs._
   <a href="https://www.instagram.com/aditya.ibrar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 5px;" />
   </a>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 <!-- CUSTOM:END -->
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   Building thoughtful systems and sharing what works.
-</p>
+</p> -->
