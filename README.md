@@ -29,9 +29,11 @@
 <p align="left">
 <img width="900px"  src="https://skillicons.dev/icons?i=dart,golang,javascript,typescript,python,express,flutter,androidstudio,firebase,postman,figma,mysql,pytorch,vscode,git,bitbucket,&perline=20"  />
 </p>
+<!-- https://github-readme-stats-eight-theta.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Taufiq's GitHub Stats" />
+   -->
 <p align="center">
   <img alt="Top Language" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaibrar&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=8&hide=blade,php,Jupyter%20Notebook,css,scss" />    
-  <img alt="Github Stats" src="https://github-readme-stats.shion.dev/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img alt="Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaibrar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </p>
 <!-- <br> -->
 
